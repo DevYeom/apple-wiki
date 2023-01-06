@@ -50,3 +50,7 @@
 ## Watch
 
 ## Xcode
+
+|Version|Swift|SDK|macOS|Release|
+|:---:|:---:|---|---|:---:|
+|14.2|5.7.2|macOS 13.1<br/>iOS 16.2<br/>watchOS 9.1<br/>tvOS 16.1|macOS 12.5+|2022-12-13|
