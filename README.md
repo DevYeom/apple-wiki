@@ -54,3 +54,6 @@
 |Version|Swift|SDK|macOS|Release|
 |:---:|:---:|---|---|:---:|
 |14.2|5.7.2|macOS 13.1<br/>iOS 16.2<br/>watchOS 9.1<br/>tvOS 16.1|macOS 12.5+|2022-12-13|
+|14.1|5.7.1|macOS 13.0<br/>iOS 16.1<br/>watchOS 9.1<br/>tvOS 16.1|macOS 12.5+|2022-11-01|
+|14.0.1|5.7|macOS 12.3<br/>iOS 16.0<br/>watchOS 9.0<br/>tvOS 16.0|macOS 12.5+|2022-09-26|
+|14.0|5.7|macOS 12.3<br/>iOS 16.0<br/>watchOS 9.0<br/>tvOS 16.0|macOS 12.5+|2022-09-12|
