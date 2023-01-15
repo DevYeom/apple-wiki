@@ -57,3 +57,11 @@
 |14.1|5.7.1|macOS 13.0<br/>iOS 16.1<br/>watchOS 9.1<br/>tvOS 16.1|macOS 12.5+|2022-11-01|
 |14.0.1|5.7|macOS 12.3<br/>iOS 16.0<br/>watchOS 9.0<br/>tvOS 16.0|macOS 12.5+|2022-09-26|
 |14.0|5.7|macOS 12.3<br/>iOS 16.0<br/>watchOS 9.0<br/>tvOS 16.0|macOS 12.5+|2022-09-12|
+|13.4.1|5.6.1|macOS 12.3<br/>iOS 15.5<br/>watchOS 8.5<br/>tvOS 15.4|macOS 12.0+|2022-06-02|
+|13.4|5.6.1|macOS 12.3<br/>iOS 15.5<br/>watchOS 8.5<br/>tvOS 15.4|macOS 12.0+|2022-05-16|
+|13.3.1|5.6|macOS 12.3<br/>iOS 15.4<br/>watchOS 8.5<br/>tvOS 15.4|macOS 12.0+|2022-04-11|
+|13.3|5.6|macOS 12.3<br/>iOS 15.4<br/>watchOS 8.5<br/>tvOS 15.4|macOS 12.0+|2022-03-14|
+|13.2.1|5.5.2|macOS 12.1<br/>iOS 15.2<br/>watchOS 8.3<br/>tvOS 15.2|macOS 11.3+|2021-12-17|
+|13.2|5.5.2|macOS 12.1<br/>iOS 15.2<br/>watchOS 8.3<br/>tvOS 15.2|macOS 11.3+|2021-12-13|
+|13.1|5.5.1|macOS 12.0<br/>iOS 15.0<br/>watchOS 8.0.1<br/>tvOS 15.0|macOS 11.3+|2021-10-25|
+|13.0|5.5|macOS 11.3<br/>iOS 15.0<br/>watchOS 8.0<br/>tvOS 15.0|macOS 11.3+|2021-09-20|
