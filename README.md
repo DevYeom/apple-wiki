@@ -45,6 +45,10 @@
 
 ## iPad
 
+|Name|OS|ARM|Chip|RAM|Size(pt)|Size(px)|Scale|Diagonal|Release|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|iPad (10th gen)|iPadOS 16.1|arm64e|Apple A14 Bionic|4GB|820x1180|1640x2360|2|10.9"|2022-10-26|
+
 ## Mac
 
 ## Watch
