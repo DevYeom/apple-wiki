@@ -45,9 +45,11 @@
 
 ## iPad
 
-|Name|OS|ARM|Chip|RAM|Size(pt)|Size(px)|Scale|Diagonal|Release|
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|iPad (10th gen)|iPadOS 16.1|arm64e|Apple A14 Bionic|4GB|820x1180|1640x2360|2|10.9"|2022-10-26|
+|Name|OS|ARM|Chip|Size(pt)|Size(px)|Scale|Diagonal|Release|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|iPad Pro (6th 12.9")|iPadOS 16.1|arm64e|Apple M2|1024x1366|2048x2732|2|12.9"|2022-10-26|
+|iPad Pro (3th 11")|iPadOS 16.1|arm64e|Apple M2|834x1194|1668x2388|2|11"|2022-10-26|
+|iPad (10th)|iPadOS 16.1|arm64e|Apple A14 Bionic|820x1180|1640x2360|2|10.9"|2022-10-26|
 
 ## Mac
 
