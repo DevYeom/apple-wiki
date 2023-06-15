@@ -1,5 +1,3 @@
-# All About Apple
-
 ## iPhone
 
 |Name|OS|ARM|Chip|RAM|Size(pt)|Size(px)|Scale|Diagonal|Release|
