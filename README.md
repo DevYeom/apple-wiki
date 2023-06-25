@@ -80,8 +80,8 @@
 
 |Name|OS|ARM|Chip|Size(pt)|Size(px)|Scale|Diagonal|Release|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|iPad Pro (6th 12.9")|iPadOS 16.1|arm64e|Apple M2|1024x1366|2048x2732|2|12.9"|2022-10-26|
-|iPad Pro (3th 11")|iPadOS 16.1|arm64e|Apple M2|834x1194|1668x2388|2|11"|2022-10-26|
+|iPad Pro (6th 12.9")|iPadOS 16.1|arm64e|Apple M2|1366x1024|2732x2048|2|12.9"|2022-10-26|
+|iPad Pro (3th 11")|iPadOS 16.1|arm64e|Apple M2|1194x834|2388x1668|2|11"|2022-10-26|
 
 ## Mac
 
