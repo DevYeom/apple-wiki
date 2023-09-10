@@ -61,14 +61,19 @@
 |iPad (5th)|iOS 10.2.1|arm64|Apple A9|1024x768|2048x1536|2|9.7"|2017-03-24|
 |iPad (4th)|iOS 6.0|armv7s|Apple A6X|1024x768|2048x1536|2|9.7"|2012-11-02|
 |iPad (3th)|iOS 5.1|armv7|Apple A5X|1024x768|2048x1536|2|9.7"|2012-03-16|
-|iPad (2th)|iOS 4.3|armv7|Apple A5|1024x768|1024x768|1|9.7"|2011-03-11|
+|iPad 2|iOS 4.3|armv7|Apple A5|1024x768|1024x768|1|9.7"|2011-03-11|
 |iPad (1th)|iPhone OS 3.2|armv7|Apple A4|1024x768|1024x768|1|9.7"|2010-04-03|
 
 ### iPad mini
 
 |Name|OS|ARM|Chip|Size(pt)|Size(px)|Scale|Diagonal|Release|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-||||||||||
+|iPad mini (6th)|iPadOS 15.0|arm64e|Apple A15 Bionic|1133x744|2266x1488|2|8.3"|2021-09-24|
+|iPad mini (5th)|iOS 12.2|arm64e|Apple A12 Bionic|1024x768|2048x1536|2|7.9"|2019-03-18|
+|iPad mini 4|iOS 9.0|arm64|Apple A8|1024x768|2048x1536|2|7.9"|2015-09-09|
+|iPad mini 3|iOS 8.1|arm64|Apple A7|1024x768|2048x1536|2|7.9"|2014-10-22|
+|iPad mini 2|iOS 7.0.3|arm64|Apple A7|1024x768|2048x1536|2|7.9"|2013-11-12|
+|iPad mini (1st)|iOS 6.0.1|armv7|Apple A5|1024x768|1024x768|1|7.9"|2012-11-02|
 
 ### iPad Air
 
