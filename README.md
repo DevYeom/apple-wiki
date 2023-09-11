@@ -79,7 +79,11 @@
 
 |Name|OS|ARM|Chip|Size(pt)|Size(px)|Scale|Diagonal|Release|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-||||||||||
+|iPad Air (5th)|iPadOS 15.4|arm64e|Apple M1|1180x820|2360x1640|2|10.9"|2022-03-18|
+|iPad Air (4th)|iPadOS 14.0|arm64e|Apple A14 Bionic|1180x820|2360x1640|2|10.9"|2020-10-23|
+|iPad Air (3rd)|iOS 12.2|arm64e|Apple A12 Bionic|1024x768|2048x1536|2|10.5"|2019-03-18|
+|iPad Air 2|iOS 8.1|arm64|Apple A8X|1024x768|2048x1536|2|9.7"|2014-10-24|
+|iPad Air|iOS 7.0.3|arm64|Apple A7|1024x768|2048x1536|2|9.7"|2013-11-01|
 
 ### iPad Pro
 
