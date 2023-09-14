@@ -89,8 +89,18 @@
 
 |Name|OS|ARM|Chip|Size(pt)|Size(px)|Scale|Diagonal|Release|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|iPad Pro (4th 11")|iPadOS 16.1|arm64e|Apple M2|1194x834|2388x1668|2|11"|2022-10-26|
 |iPad Pro (6th 12.9")|iPadOS 16.1|arm64e|Apple M2|1366x1024|2732x2048|2|12.9"|2022-10-26|
-|iPad Pro (3th 11")|iPadOS 16.1|arm64e|Apple M2|1194x834|2388x1668|2|11"|2022-10-26|
+|iPad Pro (3rd 11")|iPadOS 14.5|arm64e|Apple M1|1194x834|2388x1668|2|11"|2021-05-21|
+|iPad Pro (5th 12.9")|iPadOS 14.5|arm64e|Apple M1|1366x1024|2732x2048|2|12.9"|2021-05-21|
+|iPad Pro (2nd 11")|iPadOS 13.4|arm64e|Apple A12Z Bionic|1194x834|2388x1668|2|11"|2020-03-25|
+|iPad Pro (4th 12.9")|iPadOS 13.4|arm64e|Apple A12Z Bionic|1366x1024|2732x2048|2|12.9"|2020-03-25|
+|iPad Pro (1st 11")|iOS 12.1|arm64e|Apple A12X Bionic|1194x834|2388x1668|2|11"|2018-11-07|
+|iPad Pro (3rd 12.9")|iOS 12.1|arm64e|Apple A12X Bionic|1366x1024|2732x2048|2|12.9"|2018-11-07|
+|iPad Pro 10.5"|iOS 10.3.2|arm64|Apple A10X Fusion|1112x834|2224x1668|2|10.5"|2017-06-13|
+|iPad Pro (2nd 12.9")|iOS 10.3.2|arm64|Apple A10X Fusion|1366x1024|2732x2048|2|12.9"|2017-06-13|
+|iPad Pro 9.7"|iOS 9.3|arm64|Apple A9X|1024x768|2048x1536|2|9.7"|2016-03-31|
+|iPad Pro (1st 12.9")|iOS 9.1|arm64|Apple A9X|1366x1024|2732x2048|2|12.9"|2015-11-11|
 
 ## Mac
 
