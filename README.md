@@ -1,7 +1,6 @@
 - [iPhone](#iphone)
 - [iPad](#ipad)
-- [Mac](#mac)
-- [Watch](#watch)
+- [Apple Watch](#apple-watch)
 - [Xcode](#xcode)
 
 ## iPhone
@@ -106,14 +105,13 @@
 |iPad Pro 9.7"|iOS 9.3|arm64|Apple A9X|1024x768|2048x1536|2|9.7"|2016-03-31|
 |iPad Pro (1st 12.9")|iOS 9.1|arm64|Apple A9X|1366x1024|2732x2048|2|12.9"|2015-11-11|
 
-## Mac
-
-## Watch
+## Apple Watch
 
 ## Xcode
 
 |Version|Swift|SDK|macOS|Release|
 |:---:|:---:|---|---|:---:|
+|15.1|5.9.2|macOS 14.2<br/>iOS 17.2<br/>watchOS 10.2<br/>tvOS 17.2|macOS 13.5+|2023-12-05|
 |15.0.1|5.9|macOS 14.0<br/>iOS 17.0<br/>watchOS 10.0<br/>tvOS 17.0|macOS 13.5+|2023-10-18|
 |15.0|5.9|macOS 14.0<br/>iOS 17.0<br/>watchOS 10.0<br/>tvOS 17.0|macOS 13.5+|2023-09-18|
 |14.3.1|5.8.1|macOS 13.3<br/>iOS 16.4<br/>watchOS 9.4<br/>tvOS 16.4|macOS 13.0+|2023-06-01|
