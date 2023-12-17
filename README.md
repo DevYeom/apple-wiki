@@ -109,30 +109,30 @@
 
 ## Xcode
 
-|Version|Swift|SDK|macOS|Release|
-|:---:|:---:|---|---|:---:|
-|15.1|5.9.2|macOS 14.2<br/>iOS 17.2<br/>watchOS 10.2<br/>tvOS 17.2|macOS 13.5+|2023-12-05|
-|15.0.1|5.9|macOS 14.0<br/>iOS 17.0<br/>watchOS 10.0<br/>tvOS 17.0|macOS 13.5+|2023-10-18|
-|15.0|5.9|macOS 14.0<br/>iOS 17.0<br/>watchOS 10.0<br/>tvOS 17.0|macOS 13.5+|2023-09-18|
-|14.3.1|5.8.1|macOS 13.3<br/>iOS 16.4<br/>watchOS 9.4<br/>tvOS 16.4|macOS 13.0+|2023-06-01|
-|14.3|5.8|macOS 13.3<br/>iOS 16.4<br/>watchOS 9.4<br/>tvOS 16.4|macOS 13.0+|2023-03-30|
-|14.2|5.7.2|macOS 13.1<br/>iOS 16.2<br/>watchOS 9.1<br/>tvOS 16.1|macOS 12.5+|2022-12-13|
-|14.1|5.7.1|macOS 13.0<br/>iOS 16.1<br/>watchOS 9.1<br/>tvOS 16.1|macOS 12.5+|2022-11-01|
-|14.0.1|5.7|macOS 12.3<br/>iOS 16.0<br/>watchOS 9.0<br/>tvOS 16.0|macOS 12.5+|2022-09-26|
-|14.0|5.7|macOS 12.3<br/>iOS 16.0<br/>watchOS 9.0<br/>tvOS 16.0|macOS 12.5+|2022-09-12|
-|13.4.1|5.6.1|macOS 12.3<br/>iOS 15.5<br/>watchOS 8.5<br/>tvOS 15.4|macOS 12.0+|2022-06-02|
-|13.4|5.6.1|macOS 12.3<br/>iOS 15.5<br/>watchOS 8.5<br/>tvOS 15.4|macOS 12.0+|2022-05-16|
-|13.3.1|5.6|macOS 12.3<br/>iOS 15.4<br/>watchOS 8.5<br/>tvOS 15.4|macOS 12.0+|2022-04-11|
-|13.3|5.6|macOS 12.3<br/>iOS 15.4<br/>watchOS 8.5<br/>tvOS 15.4|macOS 12.0+|2022-03-14|
-|13.2.1|5.5.2|macOS 12.1<br/>iOS 15.2<br/>watchOS 8.3<br/>tvOS 15.2|macOS 11.3+|2021-12-17|
-|13.2|5.5.2|macOS 12.1<br/>iOS 15.2<br/>watchOS 8.3<br/>tvOS 15.2|macOS 11.3+|2021-12-13|
-|13.1|5.5.1|macOS 12.0<br/>iOS 15.0<br/>watchOS 8.0.1<br/>tvOS 15.0|macOS 11.3+|2021-10-25|
-|13.0|5.5|macOS 11.3<br/>iOS 15.0<br/>watchOS 8.0<br/>tvOS 15.0|macOS 11.3+|2021-09-20|
-|12.5.1|5.4.2|macOS 11.3<br/>iOS 14.5<br/>watchOS 7.4<br/>tvOS 14.5|macOS 11.0+|2021-06-21|
-|12.5|5.4|macOS 11.3<br/>iOS 14.5<br/>watchOS 7.4<br/>tvOS 14.5|macOS 11.0+|2021-04-26|
-|12.4|5.3.2|macOS 11.1<br/>iOS 14.4<br/>watchOS 7.2<br/>tvOS 14.3|macOS 10.15.4+|2021-01-26|
-|12.3|5.3.2|macOS 11.1<br/>iOS 14.3<br/>watchOS 7.2<br/>tvOS 14.3|macOS 10.15.4+|2020-12-14|
-|12.2|5.3.1|macOS 11.0<br/>iOS 14.2<br/>watchOS 7.1<br/>tvOS 14.2|macOS 10.15.4+|2020-11-12|
-|12.1|5.3|macOS 10.15.6<br/>iOS 14.1<br/>watchOS 7.0<br/>tvOS 14.0|macOS 10.15.4+|2020-10-20|
-|12.0.1|5.3|macOS 10.15.6<br/>iOS 14.0<br/>watchOS 7.0<br/>tvOS 14.0|macOS 10.15.4+|2020-09-24|
-|12.0|5.3|macOS 10.15.6<br/>iOS 14.0<br/>watchOS 7.0<br/>tvOS 14.0|macOS 10.15.4+|2020-09-17|
+|Version|Swift|Clang|SDK|macOS|Release|
+|:---:|:---:|:---:|---|---|:---:|
+|15.1|5.9.2|15.0.0|macOS 14.2<br/>iOS 17.2<br/>watchOS 10.2<br/>tvOS 17.2|macOS 13.5+|2023-12-11|
+|15.0.1|5.9|15.0.0|macOS 14.0<br/>iOS 17.0<br/>watchOS 10.0<br/>tvOS 17.0|macOS 13.5+|2023-10-18|
+|15.0|5.9|15.0.0|macOS 14.0<br/>iOS 17.0<br/>watchOS 10.0<br/>tvOS 17.0|macOS 13.5+|2023-09-18|
+|14.3.1|5.8.1|14.0.3|macOS 13.3<br/>iOS 16.4<br/>watchOS 9.4<br/>tvOS 16.4|macOS 13.0+|2023-06-01|
+|14.3|5.8|14.0.3|macOS 13.3<br/>iOS 16.4<br/>watchOS 9.4<br/>tvOS 16.4|macOS 13.0+|2023-03-30|
+|14.2|5.7.2|14.0.0|macOS 13.1<br/>iOS 16.2<br/>watchOS 9.1<br/>tvOS 16.1|macOS 12.5+|2022-12-13|
+|14.1|5.7.1|14.0.0|macOS 13.0<br/>iOS 16.1<br/>watchOS 9.1<br/>tvOS 16.1|macOS 12.5+|2022-11-01|
+|14.0.1|5.7|14.0.0|macOS 12.3<br/>iOS 16.0<br/>watchOS 9.0<br/>tvOS 16.0|macOS 12.5+|2022-09-26|
+|14.0|5.7|14.0.0|macOS 12.3<br/>iOS 16.0<br/>watchOS 9.0<br/>tvOS 16.0|macOS 12.5+|2022-09-12|
+|13.4.1|5.6.1|13.1.6|macOS 12.3<br/>iOS 15.5<br/>watchOS 8.5<br/>tvOS 15.4|macOS 12.0+|2022-06-02|
+|13.4|5.6.1|13.1.6|macOS 12.3<br/>iOS 15.5<br/>watchOS 8.5<br/>tvOS 15.4|macOS 12.0+|2022-05-16|
+|13.3.1|5.6|13.1.6|macOS 12.3<br/>iOS 15.4<br/>watchOS 8.5<br/>tvOS 15.4|macOS 12.0+|2022-04-11|
+|13.3|5.6|13.1.6|macOS 12.3<br/>iOS 15.4<br/>watchOS 8.5<br/>tvOS 15.4|macOS 12.0+|2022-03-14|
+|13.2.1|5.5.2|13.0.0|macOS 12.1<br/>iOS 15.2<br/>watchOS 8.3<br/>tvOS 15.2|macOS 11.3+|2021-12-17|
+|13.2|5.5.2|13.0.0|macOS 12.1<br/>iOS 15.2<br/>watchOS 8.3<br/>tvOS 15.2|macOS 11.3+|2021-12-13|
+|13.1|5.5.1|13.0.0|macOS 12.0<br/>iOS 15.0<br/>watchOS 8.0.1<br/>tvOS 15.0|macOS 11.3+|2021-10-25|
+|13.0|5.5|13.0.0|macOS 11.3<br/>iOS 15.0<br/>watchOS 8.0<br/>tvOS 15.0|macOS 11.3+|2021-09-20|
+|12.5.1|5.4.2|12.0.5|macOS 11.3<br/>iOS 14.5<br/>watchOS 7.4<br/>tvOS 14.5|macOS 11.0+|2021-06-21|
+|12.5|5.4|12.0.5|macOS 11.3<br/>iOS 14.5<br/>watchOS 7.4<br/>tvOS 14.5|macOS 11.0+|2021-04-26|
+|12.4|5.3.2|12.0.0|macOS 11.1<br/>iOS 14.4<br/>watchOS 7.2<br/>tvOS 14.3|macOS 10.15.4+|2021-01-26|
+|12.3|5.3.2|12.0.0|macOS 11.1<br/>iOS 14.3<br/>watchOS 7.2<br/>tvOS 14.3|macOS 10.15.4+|2020-12-14|
+|12.2|5.3.1|12.0.0|macOS 11.0<br/>iOS 14.2<br/>watchOS 7.1<br/>tvOS 14.2|macOS 10.15.4+|2020-11-12|
+|12.1|5.3|12.0.0|macOS 10.15.6<br/>iOS 14.1<br/>watchOS 7.0<br/>tvOS 14.0|macOS 10.15.4+|2020-10-20|
+|12.0.1|5.3|12.0.0|macOS 10.15.6<br/>iOS 14.0<br/>watchOS 7.0<br/>tvOS 14.0|macOS 10.15.4+|2020-09-24|
+|12.0|5.3|12.0.0|macOS 10.15.6<br/>iOS 14.0<br/>watchOS 7.0<br/>tvOS 14.0|macOS 10.15.4+|2020-09-17|
