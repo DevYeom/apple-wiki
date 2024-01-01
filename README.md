@@ -107,6 +107,35 @@
 
 ## Apple Watch
 
+> [!WARNING]
+> WIP
+
+|Name|OS|ARM|Chip|RAM|Storage|Size(pt)|Size(px)|Scale|Diagonal|Release|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Ultra 49mm|watchOS 9||Apple S8|?GB|32GB|1x1|1x1|2|1"|2022-09-23|
+|Series 8 45mm|watchOS 9||Apple S8|?GB|32GB|1x1|1x1|2|1"|2022-09-16|
+|Series 8 41mm|watchOS 9||Apple S8|?GB|32GB|1x1|1x1|2|1"|2022-09-16|
+|SE(2nd) 44mm|watchOS 9||Apple S8|?GB|32GB|1x1|1x1|2|1"|2022-09-16|
+|SE(2nd) 40mm|watchOS 9||Apple S8|?GB|32GB|1x1|1x1|2|1"|2022-09-16|
+|Series 7 45mm|watchOS 8||Apple S7|1GB|32GB|1x1|1x1|2|1"|2021-10-15|
+|Series 7 41mm|watchOS 8||Apple S7|1GB|32GB|1x1|1x1|2|1"|2021-10-15|
+|Series 6 44mm|watchOS 7||Apple S6|?GB|32GB|1x1|1x1|2|1"|2020-09-18|
+|Series 6 40mm|watchOS 7||Apple S6|?GB|32GB|1x1|1x1|2|1"|2020-09-18|
+|SE(1st) 44mm|watchOS 7||Apple S5|?GB|32GB|1x1|1x1|2|1"|2020-09-18|
+|SE(1st) 40mm|watchOS 7||Apple S5|?GB|32GB|1x1|1x1|2|1"|2020-09-18|
+|Series 5 44mm|watchOS 6||Apple S5|1GB|32GB|1x1|1x1|2|1"|2019-09-10|
+|Series 5 40mm|watchOS 6||Apple S5|1GB|32GB|1x1|1x1|2|1"|2019-09-10|
+|Series 4 44mm|watchOS 5||Apple S4|1GB|16GB|1x1|1x1|2|1"|2018-09-21|
+|Series 4 40mm|watchOS 5||Apple S4|1GB|16GB|1x1|1x1|2|1"|2018-09-21|
+|Series 3 42mm|watchOS 4||Apple S3|768MB|8GB<br/>16GB|1x1|1x1|2|1"|2017-09-12|
+|Series 3 38mm|watchOS 4||Apple S3|768MB|8GB<br/>16GB|1x1|1x1|2|1"|2017-09-12|
+|Series 2 42mm|watchOS 3||Apple S2|512MB|8GB|1x1|1x1|2|1"|2016-09-16|
+|Series 2 38mm|watchOS 3||Apple S2|512MB|8GB|1x1|1x1|2|1"|2016-09-16|
+|Series 1 42mm|watchOS 3||Apple S1P|512MB|8GB|1x1|1x1|2|1"|2016-09-16|
+|Series 1 38mm|watchOS 3||Apple S1P|512MB|8GB|1x1|1x1|2|1"|2016-09-16|
+|Original 42mm|watchOS 1||Apple S1|512MB|8GB|1x1|1x1|2|1"|2015-04-24|
+|Original 38mm|watchOS 1||Apple S1|512MB|8GB|1x1|1x1|2|1"|2015-04-24|
+
 ## Xcode
 
 |Version|Swift|Clang|SDK|macOS|Release|
