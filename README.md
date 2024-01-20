@@ -140,6 +140,7 @@
 
 |Version|Swift|Clang|SDK|macOS|Release|
 |:---:|:---:|:---:|---|:---:|:---:|
+|15.2|5.9.2|15.0.0|macOS 14.2<br/>iOS 17.2<br/>watchOS 10.2<br/>tvOS 17.2|macOS 13.5+|2024-01-08|
 |15.1|5.9.2|15.0.0|macOS 14.2<br/>iOS 17.2<br/>watchOS 10.2<br/>tvOS 17.2|macOS 13.5+|2023-12-11|
 |15.0.1|5.9|15.0.0|macOS 14.0<br/>iOS 17.0<br/>watchOS 10.0<br/>tvOS 17.0|macOS 13.5+|2023-10-18|
 |15.0|5.9|15.0.0|macOS 14.0<br/>iOS 17.0<br/>watchOS 10.0<br/>tvOS 17.0|macOS 13.5+|2023-09-18|
