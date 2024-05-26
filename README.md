@@ -54,56 +54,56 @@
 
 ### iPad
 
-|Name|OS|ARM|Chip|Size(pt)|Size(px)|Scale|Diagonal|Release|
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|iPad (10th)|iPadOS 16.1|arm64e|Apple A14 Bionic|1180x820|2360x1640|2|10.9"|2022-10-26|
-|iPad (9th)|iPadOS 15.0|arm64e|Apple A13 Bionic|1080x810|2160x1620|2|10.2"|2021-09-24|
-|iPad (8th)|iPadOS 14.0|arm64e|Apple A12 Bionic|1080x810|2160x1620|2|10.2"|2020-09-18|
-|iPad (7th)|iPadOS 13.1|arm64|Apple A10 Fusion|1080x810|2160x1620|2|10.2"|2019-09-25|
-|iPad (6th)|iOS 11.3|arm64|Apple A10 Fusion|1024x768|2048x1536|2|9.7"|2018-03-27|
-|iPad (5th)|iOS 10.2.1|arm64|Apple A9|1024x768|2048x1536|2|9.7"|2017-03-24|
-|iPad (4th)|iOS 6.0|armv7s|Apple A6X|1024x768|2048x1536|2|9.7"|2012-11-02|
-|iPad (3th)|iOS 5.1|armv7|Apple A5X|1024x768|2048x1536|2|9.7"|2012-03-16|
-|iPad 2|iOS 4.3|armv7|Apple A5|1024x768|1024x768|1|9.7"|2011-03-11|
-|iPad (1th)|iPhone OS 3.2|armv7|Apple A4|1024x768|1024x768|1|9.7"|2010-04-03|
+|Name|OS|Max OS|ARM|Chip|Size(pt)|Size(px)|Scale|Diagonal|Release|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|iPad (10th)|iPadOS 16.1|-|arm64e|Apple A14 Bionic|1180x820|2360x1640|2|10.9"|2022-10-26|
+|iPad (9th)|iPadOS 15.0|-|arm64e|Apple A13 Bionic|1080x810|2160x1620|2|10.2"|2021-09-24|
+|iPad (8th)|iPadOS 14.0|-|arm64e|Apple A12 Bionic|1080x810|2160x1620|2|10.2"|2020-09-18|
+|iPad (7th)|iPadOS 13.1|-|arm64|Apple A10 Fusion|1080x810|2160x1620|2|10.2"|2019-09-25|
+|iPad (6th)|iOS 11.3|-|arm64|Apple A10 Fusion|1024x768|2048x1536|2|9.7"|2018-03-27|
+|iPad (5th)|iOS 10.2.1|iPadOS 16.x|arm64|Apple A9|1024x768|2048x1536|2|9.7"|2017-03-24|
+|iPad (4th)|iOS 6.0|iOS 10.x|armv7s|Apple A6X|1024x768|2048x1536|2|9.7"|2012-11-02|
+|iPad (3th)|iOS 5.1|iOS 9.x|armv7|Apple A5X|1024x768|2048x1536|2|9.7"|2012-03-16|
+|iPad 2|iOS 4.3|iOS 9.x|armv7|Apple A5|1024x768|1024x768|1|9.7"|2011-03-11|
+|iPad (1th)|iPhone OS 3.2|iOS 5.x|armv7|Apple A4|1024x768|1024x768|1|9.7"|2010-04-03|
 
 ### iPad mini
 
-|Name|OS|ARM|Chip|Size(pt)|Size(px)|Scale|Diagonal|Release|
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|iPad mini (6th)|iPadOS 15.0|arm64e|Apple A15 Bionic|1133x744|2266x1488|2|8.3"|2021-09-24|
-|iPad mini (5th)|iOS 12.2|arm64e|Apple A12 Bionic|1024x768|2048x1536|2|7.9"|2019-03-18|
-|iPad mini 4|iOS 9.0|arm64|Apple A8|1024x768|2048x1536|2|7.9"|2015-09-09|
-|iPad mini 3|iOS 8.1|arm64|Apple A7|1024x768|2048x1536|2|7.9"|2014-10-22|
-|iPad mini 2|iOS 7.0.3|arm64|Apple A7|1024x768|2048x1536|2|7.9"|2013-11-12|
-|iPad mini (1st)|iOS 6.0.1|armv7|Apple A5|1024x768|1024x768|1|7.9"|2012-11-02|
+|Name|OS|Max OS|ARM|Chip|Size(pt)|Size(px)|Scale|Diagonal|Release|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|iPad mini (6th)|iPadOS 15.0|-|arm64e|Apple A15 Bionic|1133x744|2266x1488|2|8.3"|2021-09-24|
+|iPad mini (5th)|iOS 12.2|-|arm64e|Apple A12 Bionic|1024x768|2048x1536|2|7.9"|2019-03-18|
+|iPad mini 4|iOS 9.0|iPadOS 15.x|arm64|Apple A8|1024x768|2048x1536|2|7.9"|2015-09-09|
+|iPad mini 3|iOS 8.1|iOS 12.x|arm64|Apple A7|1024x768|2048x1536|2|7.9"|2014-10-22|
+|iPad mini 2|iOS 7.0.3|iOS 12.x|arm64|Apple A7|1024x768|2048x1536|2|7.9"|2013-11-12|
+|iPad mini (1st)|iOS 6.0.1|iOS 9.x|armv7|Apple A5|1024x768|1024x768|1|7.9"|2012-11-02|
 
 ### iPad Air
 
-|Name|OS|ARM|Chip|Size(pt)|Size(px)|Scale|Diagonal|Release|
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|iPad Air (5th)|iPadOS 15.4|arm64e|Apple M1|1180x820|2360x1640|2|10.9"|2022-03-18|
-|iPad Air (4th)|iPadOS 14.0|arm64e|Apple A14 Bionic|1180x820|2360x1640|2|10.9"|2020-10-23|
-|iPad Air (3rd)|iOS 12.2|arm64e|Apple A12 Bionic|1024x768|2048x1536|2|10.5"|2019-03-18|
-|iPad Air 2|iOS 8.1|arm64|Apple A8X|1024x768|2048x1536|2|9.7"|2014-10-24|
-|iPad Air|iOS 7.0.3|arm64|Apple A7|1024x768|2048x1536|2|9.7"|2013-11-01|
+|Name|OS|Max OS|ARM|Chip|Size(pt)|Size(px)|Scale|Diagonal|Release|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|iPad Air (5th)|iPadOS 15.4|-|arm64e|Apple M1|1180x820|2360x1640|2|10.9"|2022-03-18|
+|iPad Air (4th)|iPadOS 14.0|-|arm64e|Apple A14 Bionic|1180x820|2360x1640|2|10.9"|2020-10-23|
+|iPad Air (3rd)|iOS 12.2|-|arm64e|Apple A12 Bionic|1024x768|2048x1536|2|10.5"|2019-03-18|
+|iPad Air 2|iOS 8.1|iPadOS 15.x|arm64|Apple A8X|1024x768|2048x1536|2|9.7"|2014-10-24|
+|iPad Air|iOS 7.0.3|iOS 12.x|arm64|Apple A7|1024x768|2048x1536|2|9.7"|2013-11-01|
 
 ### iPad Pro
 
-|Name|OS|ARM|Chip|Size(pt)|Size(px)|Scale|Diagonal|Release|
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|iPad Pro (4th 11")|iPadOS 16.1|arm64e|Apple M2|1194x834|2388x1668|2|11"|2022-10-26|
-|iPad Pro (6th 12.9")|iPadOS 16.1|arm64e|Apple M2|1366x1024|2732x2048|2|12.9"|2022-10-26|
-|iPad Pro (3rd 11")|iPadOS 14.5|arm64e|Apple M1|1194x834|2388x1668|2|11"|2021-05-21|
-|iPad Pro (5th 12.9")|iPadOS 14.5|arm64e|Apple M1|1366x1024|2732x2048|2|12.9"|2021-05-21|
-|iPad Pro (2nd 11")|iPadOS 13.4|arm64e|Apple A12Z Bionic|1194x834|2388x1668|2|11"|2020-03-25|
-|iPad Pro (4th 12.9")|iPadOS 13.4|arm64e|Apple A12Z Bionic|1366x1024|2732x2048|2|12.9"|2020-03-25|
-|iPad Pro (1st 11")|iOS 12.1|arm64e|Apple A12X Bionic|1194x834|2388x1668|2|11"|2018-11-07|
-|iPad Pro (3rd 12.9")|iOS 12.1|arm64e|Apple A12X Bionic|1366x1024|2732x2048|2|12.9"|2018-11-07|
-|iPad Pro 10.5"|iOS 10.3.2|arm64|Apple A10X Fusion|1112x834|2224x1668|2|10.5"|2017-06-13|
-|iPad Pro (2nd 12.9")|iOS 10.3.2|arm64|Apple A10X Fusion|1366x1024|2732x2048|2|12.9"|2017-06-13|
-|iPad Pro 9.7"|iOS 9.3|arm64|Apple A9X|1024x768|2048x1536|2|9.7"|2016-03-31|
-|iPad Pro (1st 12.9")|iOS 9.1|arm64|Apple A9X|1366x1024|2732x2048|2|12.9"|2015-11-11|
+|Name|OS|Max OS|ARM|Chip|Size(pt)|Size(px)|Scale|Diagonal|Release|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|iPad Pro (4th 11")|iPadOS 16.1|-|arm64e|Apple M2|1194x834|2388x1668|2|11"|2022-10-26|
+|iPad Pro (6th 12.9")|iPadOS 16.1|-|arm64e|Apple M2|1366x1024|2732x2048|2|12.9"|2022-10-26|
+|iPad Pro (3rd 11")|iPadOS 14.5|-|arm64e|Apple M1|1194x834|2388x1668|2|11"|2021-05-21|
+|iPad Pro (5th 12.9")|iPadOS 14.5|-|arm64e|Apple M1|1366x1024|2732x2048|2|12.9"|2021-05-21|
+|iPad Pro (2nd 11")|iPadOS 13.4|-|arm64e|Apple A12Z Bionic|1194x834|2388x1668|2|11"|2020-03-25|
+|iPad Pro (4th 12.9")|iPadOS 13.4|-|arm64e|Apple A12Z Bionic|1366x1024|2732x2048|2|12.9"|2020-03-25|
+|iPad Pro (1st 11")|iOS 12.1|-|arm64e|Apple A12X Bionic|1194x834|2388x1668|2|11"|2018-11-07|
+|iPad Pro (3rd 12.9")|iOS 12.1|-|arm64e|Apple A12X Bionic|1366x1024|2732x2048|2|12.9"|2018-11-07|
+|iPad Pro 10.5"|iOS 10.3.2|-|arm64|Apple A10X Fusion|1112x834|2224x1668|2|10.5"|2017-06-13|
+|iPad Pro (2nd 12.9")|iOS 10.3.2|-|arm64|Apple A10X Fusion|1366x1024|2732x2048|2|12.9"|2017-06-13|
+|iPad Pro 9.7"|iOS 9.3|iPadOS 16.x|arm64|Apple A9X|1024x768|2048x1536|2|9.7"|2016-03-31|
+|iPad Pro (1st 12.9")|iOS 9.1|iPadOS 16.x|arm64|Apple A9X|1366x1024|2732x2048|2|12.9"|2015-11-11|
 
 ## Apple Watch
 
