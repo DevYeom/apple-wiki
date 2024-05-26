@@ -107,22 +107,19 @@
 
 ## Apple Watch
 
-> [!WARNING]
-> WIP
-
 |Name|OS|ARM|Chip|RAM|Storage|Size(pt)|Size(px)|Scale|Diagonal|Release|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Ultra 49mm|watchOS 9||Apple S8|?GB|32GB|205x251|410x502|2|1.93"|2022-09-23|
-|Series 8 45mm|watchOS 9||Apple S8|?GB|32GB|198x242|396x484|2|1.77"|2022-09-16|
-|Series 8 41mm|watchOS 9||Apple S8|?GB|32GB|176x215|352x430|2|1.61"|2022-09-16|
-|SE(2nd) 44mm|watchOS 9||Apple S8|?GB|32GB|184x224|368x448|2|1.73"|2022-09-16|
-|SE(2nd) 40mm|watchOS 9||Apple S8|?GB|32GB|162x197|324x394|2|1.57"|2022-09-16|
+|Ultra 49mm|watchOS 9||Apple S8|1GB|32GB|205x251|410x502|2|1.93"|2022-09-23|
+|Series 8 45mm|watchOS 9||Apple S8|1GB|32GB|198x242|396x484|2|1.77"|2022-09-16|
+|Series 8 41mm|watchOS 9||Apple S8|1GB|32GB|176x215|352x430|2|1.61"|2022-09-16|
+|SE(2nd) 44mm|watchOS 9||Apple S8|1GB|32GB|184x224|368x448|2|1.73"|2022-09-16|
+|SE(2nd) 40mm|watchOS 9||Apple S8|1GB|32GB|162x197|324x394|2|1.57"|2022-09-16|
 |Series 7 45mm|watchOS 8||Apple S7|1GB|32GB|198x242|396x484|2|1.77"|2021-10-15|
 |Series 7 41mm|watchOS 8||Apple S7|1GB|32GB|176x215|352x430|2|1.61"|2021-10-15|
-|Series 6 44mm|watchOS 7||Apple S6|?GB|32GB|184x224|368x448|2|1.73"|2020-09-18|
-|Series 6 40mm|watchOS 7||Apple S6|?GB|32GB|162x197|324x394|2|1.57"|2020-09-18|
-|SE(1st) 44mm|watchOS 7||Apple S5|?GB|32GB|184x224|368x448|2|1.73"|2020-09-18|
-|SE(1st) 40mm|watchOS 7||Apple S5|?GB|32GB|162x197|324x394|2|1.57"|2020-09-18|
+|Series 6 44mm|watchOS 7||Apple S6|1GB|32GB|184x224|368x448|2|1.73"|2020-09-18|
+|Series 6 40mm|watchOS 7||Apple S6|1GB|32GB|162x197|324x394|2|1.57"|2020-09-18|
+|SE(1st) 44mm|watchOS 7||Apple S5|1GB|32GB|184x224|368x448|2|1.73"|2020-09-18|
+|SE(1st) 40mm|watchOS 7||Apple S5|1GB|32GB|162x197|324x394|2|1.57"|2020-09-18|
 |Series 5 44mm|watchOS 6||Apple S5|1GB|32GB|184x224|368x448|2|1.73"|2019-09-10|
 |Series 5 40mm|watchOS 6||Apple S5|1GB|32GB|162x197|324x394|2|1.57"|2019-09-10|
 |Series 4 44mm|watchOS 5||Apple S4|1GB|16GB|184x224|368x448|2|1.73"|2018-09-21|
