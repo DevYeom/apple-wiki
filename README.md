@@ -111,34 +111,34 @@
 
 ## Apple Watch
 
-|Name|OS|ARM|Chip|RAM|Storage|Size(pt)|Size(px)|Scale|Diagonal|Release|
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Ultra 2 49mm|watchOS 10||Apple S9|1GB|64GB|205x251|410x502|2|1.93"|2023-09-22|
-|Series 9 45mm|watchOS 10||Apple S9|1GB|64GB|198x242|396x484|2|1.77"|2023-09-22|
-|Series 9 41mm|watchOS 10||Apple S9|1GB|64GB|176x215|352x430|2|1.61"|2023-09-22|
-|Ultra 49mm|watchOS 9||Apple S8|1GB|32GB|205x251|410x502|2|1.93"|2022-09-23|
-|Series 8 45mm|watchOS 9||Apple S8|1GB|32GB|198x242|396x484|2|1.77"|2022-09-16|
-|Series 8 41mm|watchOS 9||Apple S8|1GB|32GB|176x215|352x430|2|1.61"|2022-09-16|
-|SE(2nd) 44mm|watchOS 9||Apple S8|1GB|32GB|184x224|368x448|2|1.73"|2022-09-16|
-|SE(2nd) 40mm|watchOS 9||Apple S8|1GB|32GB|162x197|324x394|2|1.57"|2022-09-16|
-|Series 7 45mm|watchOS 8||Apple S7|1GB|32GB|198x242|396x484|2|1.77"|2021-10-15|
-|Series 7 41mm|watchOS 8||Apple S7|1GB|32GB|176x215|352x430|2|1.61"|2021-10-15|
-|Series 6 44mm|watchOS 7||Apple S6|1GB|32GB|184x224|368x448|2|1.73"|2020-09-18|
-|Series 6 40mm|watchOS 7||Apple S6|1GB|32GB|162x197|324x394|2|1.57"|2020-09-18|
-|SE(1st) 44mm|watchOS 7||Apple S5|1GB|32GB|184x224|368x448|2|1.73"|2020-09-18|
-|SE(1st) 40mm|watchOS 7||Apple S5|1GB|32GB|162x197|324x394|2|1.57"|2020-09-18|
-|Series 5 44mm|watchOS 6||Apple S5|1GB|32GB|184x224|368x448|2|1.73"|2019-09-10|
-|Series 5 40mm|watchOS 6||Apple S5|1GB|32GB|162x197|324x394|2|1.57"|2019-09-10|
-|Series 4 44mm|watchOS 5||Apple S4|1GB|16GB|184x224|368x448|2|1.73"|2018-09-21|
-|Series 4 40mm|watchOS 5||Apple S4|1GB|16GB|162x197|324x394|2|1.57"|2018-09-21|
-|Series 3 42mm|watchOS 4||Apple S3|768MB|8GB<br/>16GB|156x195|312x390|2|1.566"|2017-09-12|
-|Series 3 38mm|watchOS 4||Apple S3|768MB|8GB<br/>16GB|136x170|272x340|2|1.337"|2017-09-12|
-|Series 2 42mm|watchOS 3||Apple S2|512MB|8GB|156x195|312x390|2|1.566"|2016-09-16|
-|Series 2 38mm|watchOS 3||Apple S2|512MB|8GB|136x170|272x340|2|1.337"|2016-09-16|
-|Series 1 42mm|watchOS 3||Apple S1P|512MB|8GB|156x195|312x390|2|1.566"|2016-09-16|
-|Series 1 38mm|watchOS 3||Apple S1P|512MB|8GB|136x170|272x340|2|1.337"|2016-09-16|
-|Original 42mm|watchOS 1||Apple S1|512MB|8GB|156x195|312x390|2|1.566"|2015-04-24|
-|Original 38mm|watchOS 1||Apple S1|512MB|8GB|136x170|272x340|2|1.337"|2015-04-24|
+|Name|OS|Chip|RAM|Storage|Size(pt)|Size(px)|Scale|Diagonal|Release|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Ultra 2 49mm|watchOS 10|Apple S9|1GB|64GB|205x251|410x502|2|1.93"|2023-09-22|
+|Series 9 45mm|watchOS 10|Apple S9|1GB|64GB|198x242|396x484|2|1.77"|2023-09-22|
+|Series 9 41mm|watchOS 10|Apple S9|1GB|64GB|176x215|352x430|2|1.61"|2023-09-22|
+|Ultra 49mm|watchOS 9|Apple S8|1GB|32GB|205x251|410x502|2|1.93"|2022-09-23|
+|Series 8 45mm|watchOS 9|Apple S8|1GB|32GB|198x242|396x484|2|1.77"|2022-09-16|
+|Series 8 41mm|watchOS 9|Apple S8|1GB|32GB|176x215|352x430|2|1.61"|2022-09-16|
+|SE(2nd) 44mm|watchOS 9|Apple S8|1GB|32GB|184x224|368x448|2|1.73"|2022-09-16|
+|SE(2nd) 40mm|watchOS 9|Apple S8|1GB|32GB|162x197|324x394|2|1.57"|2022-09-16|
+|Series 7 45mm|watchOS 8|Apple S7|1GB|32GB|198x242|396x484|2|1.77"|2021-10-15|
+|Series 7 41mm|watchOS 8|Apple S7|1GB|32GB|176x215|352x430|2|1.61"|2021-10-15|
+|Series 6 44mm|watchOS 7|Apple S6|1GB|32GB|184x224|368x448|2|1.73"|2020-09-18|
+|Series 6 40mm|watchOS 7|Apple S6|1GB|32GB|162x197|324x394|2|1.57"|2020-09-18|
+|SE(1st) 44mm|watchOS 7|Apple S5|1GB|32GB|184x224|368x448|2|1.73"|2020-09-18|
+|SE(1st) 40mm|watchOS 7|Apple S5|1GB|32GB|162x197|324x394|2|1.57"|2020-09-18|
+|Series 5 44mm|watchOS 6|Apple S5|1GB|32GB|184x224|368x448|2|1.73"|2019-09-10|
+|Series 5 40mm|watchOS 6|Apple S5|1GB|32GB|162x197|324x394|2|1.57"|2019-09-10|
+|Series 4 44mm|watchOS 5|Apple S4|1GB|16GB|184x224|368x448|2|1.73"|2018-09-21|
+|Series 4 40mm|watchOS 5|Apple S4|1GB|16GB|162x197|324x394|2|1.57"|2018-09-21|
+|Series 3 42mm|watchOS 4|Apple S3|768MB|8GB<br/>16GB|156x195|312x390|2|1.566"|2017-09-12|
+|Series 3 38mm|watchOS 4|Apple S3|768MB|8GB<br/>16GB|136x170|272x340|2|1.337"|2017-09-12|
+|Series 2 42mm|watchOS 3|Apple S2|512MB|8GB|156x195|312x390|2|1.566"|2016-09-16|
+|Series 2 38mm|watchOS 3|Apple S2|512MB|8GB|136x170|272x340|2|1.337"|2016-09-16|
+|Series 1 42mm|watchOS 3|Apple S1P|512MB|8GB|156x195|312x390|2|1.566"|2016-09-16|
+|Series 1 38mm|watchOS 3|Apple S1P|512MB|8GB|136x170|272x340|2|1.337"|2016-09-16|
+|Original 42mm|watchOS 1|Apple S1|512MB|8GB|156x195|312x390|2|1.566"|2015-04-24|
+|Original 38mm|watchOS 1|Apple S1|512MB|8GB|136x170|272x340|2|1.337"|2015-04-24|
 
 ## Xcode
 
