@@ -113,6 +113,9 @@
 
 |Name|OS|ARM|Chip|RAM|Storage|Size(pt)|Size(px)|Scale|Diagonal|Release|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Ultra 2 49mm|watchOS 10||Apple S9|1GB|64GB|205x251|410x502|2|1.93"|2023-09-22|
+|Series 9 45mm|watchOS 10||Apple S9|1GB|64GB|198x242|396x484|2|1.77"|2023-09-22|
+|Series 9 41mm|watchOS 10||Apple S9|1GB|64GB|176x215|352x430|2|1.61"|2023-09-22|
 |Ultra 49mm|watchOS 9||Apple S8|1GB|32GB|205x251|410x502|2|1.93"|2022-09-23|
 |Series 8 45mm|watchOS 9||Apple S8|1GB|32GB|198x242|396x484|2|1.77"|2022-09-16|
 |Series 8 41mm|watchOS 9||Apple S8|1GB|32GB|176x215|352x430|2|1.61"|2022-09-16|
