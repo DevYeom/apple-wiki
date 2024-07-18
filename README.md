@@ -7,10 +7,10 @@
 
 |Name|OS|Max OS|ARM|Chip|RAM|Size(pt)|Size(px)|Scale|Diagonal|Release|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|iPhone 15 Pro Max|iOS 17.0|-|arm64e|Apple A17 Pro|8GB|430x932|1290x2796|3|6.69"|2022-09-22|
-|iPhone 15 Pro|iOS 17.0|-|arm64e|Apple A17 Pro|8GB|393x852|1179x2556|3|6.12"|2022-09-22|
-|iPhone 15 Plus|iOS 17.0|-|arm64e|Apple A16 Bionic|6GB|430x932|1290x2796|3|6.69"|2022-09-22|
-|iPhone 15|iOS 17.0|-|arm64e|Apple A16 Bionic|6GB|393x852|1179x2556|3|6.12"|2022-09-22|
+|iPhone 15 Pro Max|iOS 17.0|-|arm64e|Apple A17 Pro|8GB|430x932|1290x2796|3|6.69"|2023-09-22|
+|iPhone 15 Pro|iOS 17.0|-|arm64e|Apple A17 Pro|8GB|393x852|1179x2556|3|6.12"|2023-09-22|
+|iPhone 15 Plus|iOS 17.0|-|arm64e|Apple A16 Bionic|6GB|430x932|1290x2796|3|6.69"|2023-09-22|
+|iPhone 15|iOS 17.0|-|arm64e|Apple A16 Bionic|6GB|393x852|1179x2556|3|6.12"|2023-09-22|
 |iPhone 14 Plus|iOS 16.0|-|arm64e|Apple A15 Bionic|6GB|428x926|1284x2778|3|6.68"|2022-10-07|
 |iPhone 14 Pro Max|iOS 16.0|-|arm64e|Apple A16 Bionic|6GB|430x932|1290x2796|3|6.69"|2022-09-16|
 |iPhone 14 Pro|iOS 16.0|-|arm64e|Apple A16 Bionic|6GB|393x852|1179x2556|3|6.12"|2022-09-16|
