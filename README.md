@@ -1,3 +1,5 @@
+[![GitHub](https://github.com/DevYeom/apple-wiki/blob/assets/banner.png?raw=true)](https://github.com/DevYeom/apple-wiki)
+
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/DevYeom/apple-wiki)
 [![GitHub Issues](https://img.shields.io/github/issues/DevYeom/apple-wiki)](https://github.com/DevYeom/apple-wiki/issues) 
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/DevYeom/apple-wiki)](https://github.com/DevYeom/apple-wiki/pulls)
