@@ -1,3 +1,10 @@
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/DevYeom/apple-wiki)
+[![GitHub Issues](https://img.shields.io/github/issues/DevYeom/apple-wiki)](https://github.com/DevYeom/apple-wiki/issues) 
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/DevYeom/apple-wiki)](https://github.com/DevYeom/apple-wiki/pulls)
+
+This document provides detailed specifications for various Apple devices, including iPhone, iPad, and Apple Watch models, as well as the Xcode development environment.
+If you find any issues or have suggestions for updates, please visit the repository on GitHub and feel free to open an issue or submit a pull request.
+
 - [iPhone](#iphone)
 - [iPad](#ipad)
 - [Apple Watch](#apple-watch)
@@ -17,11 +24,11 @@
 |iPhone 14|iOS 16.0|-|arm64e|Apple A15 Bionic|6GB|390x844|1170x2532|3|6.06"|2022-09-16|
 |iPhone SE 3rd|iOS 15.4|-|arm64e|Apple A15 Bionic|4GB|375x667|750x1334|2|4.7"|2022-03-08|
 |iPhone 13|iOS 15.0|-|arm64e|Apple A15 Bionic|4GB|390x844|1170x2532|3|6.06"|2021-09-14|
-|iPhone 13 mini|iOS 15.0|-|arm64e|Apple A15 Bionic|4GB|375x812|1080x2340|3|5.42"|2021-09-14|
+|iPhone 13 mini|iOS 15.0|-|arm64e|Apple A15 Bionic|4GB|360x780|1080x2340|3|5.42"|2021-09-14|
 |iPhone 13 Pro Max|iOS 15.0|-|arm64e|Apple A15 Bionic|6GB|428x926|1284x2778|3|6.68"|2021-09-14|
 |iPhone 13 Pro|iOS 15.0|-|arm64e|Apple A15 Bionic|6GB|390x844|1170x2532|3|6.06"|2021-09-14|
 |iPhone 12|iOS 14.1|-|arm64e|Apple A14 Bionic|4GB|390x844|1170x2532|3|6.06"|2020-10-13|
-|iPhone 12 mini|iOS 14.1|-|arm64e|Apple A14 Bionic|4GB|375x812|1080x2340|3|5.42"|2020-10-13|
+|iPhone 12 mini|iOS 14.1|-|arm64e|Apple A14 Bionic|4GB|360x780|1080x2340|3|5.42"|2020-10-13|
 |iPhone 12 Pro Max|iOS 14.1|-|arm64e|Apple A14 Bionic|6GB|428x926|1284x2778|3|6.68"|2020-10-13|
 |iPhone 12 Pro|iOS 14.1|-|arm64e|Apple A14 Bionic|6GB|390x844|1170x2532|3|6.06"|2020-10-13|
 |iPhone SE 2nd|iOS 13.4|-|arm64e|Apple A13 Bionic|3GB|375x667|750x1334|2|4.7"|2020-04-24|
