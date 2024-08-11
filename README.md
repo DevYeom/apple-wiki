@@ -72,9 +72,9 @@ If you find any issues or have suggestions for updates, please visit the reposit
 |iPad (6th)|iOS 11.3|-|arm64|Apple A10 Fusion|1024x768|2048x1536|2|9.7"|2018-03-27|
 |iPad (5th)|iOS 10.2.1|iPadOS 16.x|arm64|Apple A9|1024x768|2048x1536|2|9.7"|2017-03-24|
 |iPad (4th)|iOS 6.0|iOS 10.x|armv7s|Apple A6X|1024x768|2048x1536|2|9.7"|2012-11-02|
-|iPad (3th)|iOS 5.1|iOS 9.x|armv7|Apple A5X|1024x768|2048x1536|2|9.7"|2012-03-16|
+|iPad (3rd)|iOS 5.1|iOS 9.x|armv7|Apple A5X|1024x768|2048x1536|2|9.7"|2012-03-16|
 |iPad 2|iOS 4.3|iOS 9.x|armv7|Apple A5|1024x768|1024x768|1|9.7"|2011-03-11|
-|iPad (1th)|iPhone OS 3.2|iOS 5.x|armv7|Apple A4|1024x768|1024x768|1|9.7"|2010-04-03|
+|iPad (1st)|iPhone OS 3.2|iOS 5.x|armv7|Apple A4|1024x768|1024x768|1|9.7"|2010-04-03|
 
 ### iPad mini
 
