@@ -14,50 +14,50 @@ If you find any issues or have suggestions for updates, please visit the reposit
 
 ## iPhone
 
-|Name|OS|Max OS|ARM|Chip|RAM|Size(pt)|Size(px)|Scale|Diagonal|Release|
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|iPhone 15 Pro Max|iOS 17.0|-|arm64e|Apple A17 Pro|8GB|430x932|1290x2796|3|6.69"|2023-09-22|
-|iPhone 15 Pro|iOS 17.0|-|arm64e|Apple A17 Pro|8GB|393x852|1179x2556|3|6.12"|2023-09-22|
-|iPhone 15 Plus|iOS 17.0|-|arm64e|Apple A16 Bionic|6GB|430x932|1290x2796|3|6.69"|2023-09-22|
-|iPhone 15|iOS 17.0|-|arm64e|Apple A16 Bionic|6GB|393x852|1179x2556|3|6.12"|2023-09-22|
-|iPhone 14 Plus|iOS 16.0|-|arm64e|Apple A15 Bionic|6GB|428x926|1284x2778|3|6.68"|2022-10-07|
-|iPhone 14 Pro Max|iOS 16.0|-|arm64e|Apple A16 Bionic|6GB|430x932|1290x2796|3|6.69"|2022-09-16|
-|iPhone 14 Pro|iOS 16.0|-|arm64e|Apple A16 Bionic|6GB|393x852|1179x2556|3|6.12"|2022-09-16|
-|iPhone 14|iOS 16.0|-|arm64e|Apple A15 Bionic|6GB|390x844|1170x2532|3|6.06"|2022-09-16|
-|iPhone SE 3rd|iOS 15.4|-|arm64e|Apple A15 Bionic|4GB|375x667|750x1334|2|4.7"|2022-03-08|
-|iPhone 13|iOS 15.0|-|arm64e|Apple A15 Bionic|4GB|390x844|1170x2532|3|6.06"|2021-09-14|
-|iPhone 13 mini|iOS 15.0|-|arm64e|Apple A15 Bionic|4GB|360x780|1080x2340|3|5.42"|2021-09-14|
-|iPhone 13 Pro Max|iOS 15.0|-|arm64e|Apple A15 Bionic|6GB|428x926|1284x2778|3|6.68"|2021-09-14|
-|iPhone 13 Pro|iOS 15.0|-|arm64e|Apple A15 Bionic|6GB|390x844|1170x2532|3|6.06"|2021-09-14|
-|iPhone 12|iOS 14.1|-|arm64e|Apple A14 Bionic|4GB|390x844|1170x2532|3|6.06"|2020-10-13|
-|iPhone 12 mini|iOS 14.1|-|arm64e|Apple A14 Bionic|4GB|360x780|1080x2340|3|5.42"|2020-10-13|
-|iPhone 12 Pro Max|iOS 14.1|-|arm64e|Apple A14 Bionic|6GB|428x926|1284x2778|3|6.68"|2020-10-13|
-|iPhone 12 Pro|iOS 14.1|-|arm64e|Apple A14 Bionic|6GB|390x844|1170x2532|3|6.06"|2020-10-13|
-|iPhone SE 2nd|iOS 13.4|-|arm64e|Apple A13 Bionic|3GB|375x667|750x1334|2|4.7"|2020-04-24|
-|iPhone 11 Pro Max|iOS 13.0|-|arm64e|Apple A13 Bionic|4GB|414x896|1242x2688|3|6.46"|2019-09-20|
-|iPhone 11 Pro|iOS 13.0|-|arm64e|Apple A13 Bionic|4GB|375x812|1125x2436|3|5.85"|2019-09-20|
-|iPhone 11|iOS 13.0|-|arm64e|Apple A13 Bionic|4GB|414x896|828x1792|2|6.1"|2019-09-20|
-|iPhone XR|iOS 12.0|-|arm64e|Apple A12 Bionic|3GB|414x896|828x1792|2|6.06"|2018-10-26|
-|iPhone XS Max|iOS 12.0|-|arm64e|Apple A12 Bionic|4GB|414x896|1242x2688|3|6.46"|2018-09-21|
-|iPhone XS|iOS 12.0|-|arm64e|Apple A12 Bionic|4GB|375x812|1125x2436|3|5.85"|2018-09-21|
-|iPhone X|iOS 11.0.1|iOS 16.x|arm64|Apple A11 Bionic|3GB|375x812|1125x2436|3|5.85"|2017-11-03|
-|iPhone 8 Plus|iOS 11.0|iOS 16.x|arm64|Apple A11 Bionic|3GB|414x736|1080x1920|3|5.5"|2017-09-22|
-|iPhone 8|iOS 11.0|iOS 16.x|arm64|Apple A11 Bionic|2GB|375x667|750x1334|2|4.7"|2017-09-22|
-|iPhone 7 Plus|iOS 10.0|iOS 15.x|arm64|Apple A10 Fusion|3GB|414x736|1080x1920|3|5.5"|2016-09-16|
-|iPhone 7|iOS 10.0|iOS 15.x|arm64|Apple A10 Fusion|2GB|375x667|750x1334|2|4.7"|2016-09-16|
-|iPhone SE 1st|iOS 9.3|iOS 15.x|arm64|Apple A9|2GB|320x568|640x1136|2|4.0"|2016-03-31|
-|iPhone 6s Plus|iOS 9.0|iOS 15.x|arm64|Apple A9|2GB|414x736|1080x1920|3|5.5"|2015-09-25|
-|iPhone 6s|iOS 9.0|iOS 15.x|arm64|Apple A9|2GB|375x667|750x1334|2|4.7"|2015-09-25|
-|iPhone 6 Plus|iOS 8.0|iOS 12.x|arm64|Apple A8|1GB|414x736|1080x1920|3|5.5"|2014-09-19|
-|iPhone 6|iOS 8.0|iOS 12.x|arm64|Apple A8|1GB|375x667|750x1334|2|4.7"|2014-09-19|
-|iPhone 5S|iOS 7.0|iOS 12.x|arm64|Apple A7|1GB|320x568|640x1136|2|4.0"|2013-09-20|
-|iPhone 5C|iOS 7.0|iOS 10.x|armv7s|Apple A6|1GB|320x568|640x1136|2|4.0"|2013-09-20|
-|iPhone 5|iOS 6.0|iOS 10.x|armv7s|Apple A6|1GB|320x568|640x1136|2|4.0"|2012-09-21|
-|iPhone 4S|iOS 5.0|iOS 9.x|armv7|Apple A5|512MB|320x480|640x960|2|3.5"|2011-10-14|
-|iPhone 4|iOS 4.0|iOS 7.x|armv7|Apple A4|512MB|320x480|640x960|2|3.5"|2010-06-21|
-|iPhone 3GS|iPhone OS 3.0|iOS 6.x|armv7|Samsung S5PC100|256MB|320x480|320x480|1|3.5"|2009-06-19|
-|iPhone 3G|iPhone OS 2.0|iOS 4.x|armv6|Samsung S5L8900|128MB|320x480|320x480|1|3.5"|2008-07-11|
-|iPhone 1st gen|iPhone OS 1.0|iPhoneOS 3.x|armv6|Samsung S5L8900|128MB|320x480|320x480|1|3.5"|2007-06-29|
+|Name|Identifier|OS|Max OS|ARM|Chip|RAM|Size(pt)|Size(px)|Scale|Diagonal|Release|
+|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|iPhone 15 Pro Max|iPhone16,2|iOS 17.0|-|arm64e|Apple A17 Pro|8GB|430x932|1290x2796|3|6.69"|2023-09-22|
+|iPhone 15 Pro|iPhone16,1|iOS 17.0|-|arm64e|Apple A17 Pro|8GB|393x852|1179x2556|3|6.12"|2023-09-22|
+|iPhone 15 Plus|iPhone15,5|iOS 17.0|-|arm64e|Apple A16 Bionic|6GB|430x932|1290x2796|3|6.69"|2023-09-22|
+|iPhone 15|iPhone15,4|iOS 17.0|-|arm64e|Apple A16 Bionic|6GB|393x852|1179x2556|3|6.12"|2023-09-22|
+|iPhone 14 Plus|iPhone14,8|iOS 16.0|-|arm64e|Apple A15 Bionic|6GB|428x926|1284x2778|3|6.68"|2022-10-07|
+|iPhone 14 Pro Max|iPhone15,3|iOS 16.0|-|arm64e|Apple A16 Bionic|6GB|430x932|1290x2796|3|6.69"|2022-09-16|
+|iPhone 14 Pro|iPhone15,2|iOS 16.0|-|arm64e|Apple A16 Bionic|6GB|393x852|1179x2556|3|6.12"|2022-09-16|
+|iPhone 14|iPhone14,7|iOS 16.0|-|arm64e|Apple A15 Bionic|6GB|390x844|1170x2532|3|6.06"|2022-09-16|
+|iPhone SE 3rd|iPhone14,6|iOS 15.4|-|arm64e|Apple A15 Bionic|4GB|375x667|750x1334|2|4.7"|2022-03-08|
+|iPhone 13|iPhone14,5|iOS 15.0|-|arm64e|Apple A15 Bionic|4GB|390x844|1170x2532|3|6.06"|2021-09-14|
+|iPhone 13 mini|iPhone14,4|iOS 15.0|-|arm64e|Apple A15 Bionic|4GB|360x780|1080x2340|3|5.42"|2021-09-14|
+|iPhone 13 Pro Max|iPhone14,3|iOS 15.0|-|arm64e|Apple A15 Bionic|6GB|428x926|1284x2778|3|6.68"|2021-09-14|
+|iPhone 13 Pro|iPhone14,2|iOS 15.0|-|arm64e|Apple A15 Bionic|6GB|390x844|1170x2532|3|6.06"|2021-09-14|
+|iPhone 12|iPhone13,2|iOS 14.1|-|arm64e|Apple A14 Bionic|4GB|390x844|1170x2532|3|6.06"|2020-10-13|
+|iPhone 12 mini|iPhone13,1|iOS 14.1|-|arm64e|Apple A14 Bionic|4GB|360x780|1080x2340|3|5.42"|2020-10-13|
+|iPhone 12 Pro Max|iPhone13,4|iOS 14.1|-|arm64e|Apple A14 Bionic|6GB|428x926|1284x2778|3|6.68"|2020-10-13|
+|iPhone 12 Pro|iPhone13,3|iOS 14.1|-|arm64e|Apple A14 Bionic|6GB|390x844|1170x2532|3|6.06"|2020-10-13|
+|iPhone SE 2nd|iPhone12,8|iOS 13.4|-|arm64e|Apple A13 Bionic|3GB|375x667|750x1334|2|4.7"|2020-04-24|
+|iPhone 11 Pro Max|iPhone12,5|iOS 13.0|-|arm64e|Apple A13 Bionic|4GB|414x896|1242x2688|3|6.46"|2019-09-20|
+|iPhone 11 Pro|iPhone12,3|iOS 13.0|-|arm64e|Apple A13 Bionic|4GB|375x812|1125x2436|3|5.85"|2019-09-20|
+|iPhone 11|iPhone12,1|iOS 13.0|-|arm64e|Apple A13 Bionic|4GB|414x896|828x1792|2|6.1"|2019-09-20|
+|iPhone XR|iPhone11,8|iOS 12.0|-|arm64e|Apple A12 Bionic|3GB|414x896|828x1792|2|6.06"|2018-10-26|
+|iPhone XS Max|iPhone11,4<br/>iPhone11,6|iOS 12.0|-|arm64e|Apple A12 Bionic|4GB|414x896|1242x2688|3|6.46"|2018-09-21|
+|iPhone XS|iPhone11,2|iOS 12.0|-|arm64e|Apple A12 Bionic|4GB|375x812|1125x2436|3|5.85"|2018-09-21|
+|iPhone X|iPhone10,3<br/>iPhone10,6|iOS 11.0.1|iOS 16.x|arm64|Apple A11 Bionic|3GB|375x812|1125x2436|3|5.85"|2017-11-03|
+|iPhone 8 Plus|iPhone10,2<br/>iPhone10,5|iOS 11.0|iOS 16.x|arm64|Apple A11 Bionic|3GB|414x736|1080x1920|3|5.5"|2017-09-22|
+|iPhone 8|iPhone10,1<br/>iPhone10,4|iOS 11.0|iOS 16.x|arm64|Apple A11 Bionic|2GB|375x667|750x1334|2|4.7"|2017-09-22|
+|iPhone 7 Plus|iPhone9,2<br/>iPhone9,4|iOS 10.0|iOS 15.x|arm64|Apple A10 Fusion|3GB|414x736|1080x1920|3|5.5"|2016-09-16|
+|iPhone 7|iPhone9,1<br/>iPhone9,3|iOS 10.0|iOS 15.x|arm64|Apple A10 Fusion|2GB|375x667|750x1334|2|4.7"|2016-09-16|
+|iPhone SE 1st|iPhone8,4|iOS 9.3|iOS 15.x|arm64|Apple A9|2GB|320x568|640x1136|2|4.0"|2016-03-31|
+|iPhone 6s Plus|iPhone8,2|iOS 9.0|iOS 15.x|arm64|Apple A9|2GB|414x736|1080x1920|3|5.5"|2015-09-25|
+|iPhone 6s|iPhone8,1|iOS 9.0|iOS 15.x|arm64|Apple A9|2GB|375x667|750x1334|2|4.7"|2015-09-25|
+|iPhone 6 Plus|iPhone7,1|iOS 8.0|iOS 12.x|arm64|Apple A8|1GB|414x736|1080x1920|3|5.5"|2014-09-19|
+|iPhone 6|iPhone7,2|iOS 8.0|iOS 12.x|arm64|Apple A8|1GB|375x667|750x1334|2|4.7"|2014-09-19|
+|iPhone 5S|iPhone6,1<br/>iPhone6,2|iOS 7.0|iOS 12.x|arm64|Apple A7|1GB|320x568|640x1136|2|4.0"|2013-09-20|
+|iPhone 5C|iPhone5,3<br/>iPhone5,4|iOS 7.0|iOS 10.x|armv7s|Apple A6|1GB|320x568|640x1136|2|4.0"|2013-09-20|
+|iPhone 5|iPhone5,1<br/>iPhone5,2|iOS 6.0|iOS 10.x|armv7s|Apple A6|1GB|320x568|640x1136|2|4.0"|2012-09-21|
+|iPhone 4S|iPhone4,1|iOS 5.0|iOS 9.x|armv7|Apple A5|512MB|320x480|640x960|2|3.5"|2011-10-14|
+|iPhone 4|iPhone3,1<br/>iPhone3,2<br/>iPhone3,3|iOS 4.0|iOS 7.x|armv7|Apple A4|512MB|320x480|640x960|2|3.5"|2010-06-21|
+|iPhone 3GS|iPhone2,1|iPhone OS 3.0|iOS 6.x|armv7|Samsung S5PC100|256MB|320x480|320x480|1|3.5"|2009-06-19|
+|iPhone 3G|iPhone1,2|iPhone OS 2.0|iOS 4.x|armv6|Samsung S5L8900|128MB|320x480|320x480|1|3.5"|2008-07-11|
+|iPhone 1st gen|iPhone1,1|iPhone OS 1.0|iPhoneOS 3.x|armv6|Samsung S5L8900|128MB|320x480|320x480|1|3.5"|2007-06-29|
 
 ## iPad
 
