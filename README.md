@@ -16,6 +16,10 @@ If you find any issues or have suggestions for updates, please visit the reposit
 
 |Name|Identifier|OS|Max OS|ARM|Chip|RAM|Size(pt)|Size(px)|Scale|Diagonal|Release|
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|iPhone 16 Pro Max|iPhone17,2|iOS 18.0|-|arm64e|Apple A18 Pro|8GB|440x956|1320×2868|3|6.86"|2024-09-20|
+|iPhone 16 Pro|iPhone17,1|iOS 18.0|-|arm64e|Apple A18 Pro|8GB|402x874|1206×2622|3|6.27"|2024-09-20|
+|iPhone 16 Plus|iPhone17,4|iOS 18.0|-|arm64e|Apple A18|8GB|430x932|1290×2796|3|6.69"|2024-09-20|
+|iPhone 16|iPhone17,3|iOS 18.0|-|arm64e|Apple A18|8GB|393x852|1179×2556|3|6.12"|2024-09-20|
 |iPhone 15 Pro Max|iPhone16,2|iOS 17.0|-|arm64e|Apple A17 Pro|8GB|430x932|1290x2796|3|6.69"|2023-09-22|
 |iPhone 15 Pro|iPhone16,1|iOS 17.0|-|arm64e|Apple A17 Pro|8GB|393x852|1179x2556|3|6.12"|2023-09-22|
 |iPhone 15 Plus|iPhone15,5|iOS 17.0|-|arm64e|Apple A16 Bionic|6GB|430x932|1290x2796|3|6.69"|2023-09-22|
@@ -153,6 +157,7 @@ If you find any issues or have suggestions for updates, please visit the reposit
 
 |Version|Swift|Clang|SDK|macOS|Release|
 |:---:|:---:|:---:|---|:---:|:---:|
+|16.0|6.0|16.0.0|macOS 15.0<br/>iOS 18.0<br/>watchOS 11.0<br/>tvOS 18.0|macOS 14.5+|2024-09-16|
 |15.4|5.10|15.0.0|macOS 14.5<br/>iOS 17.5<br/>watchOS 10.5<br/>tvOS 17.5|macOS 14.0+|2024-05-13|
 |15.3|5.10|15.0.0|macOS 14.4<br/>iOS 17.4<br/>watchOS 10.4<br/>tvOS 17.4|macOS 14.0+|2024-03-05|
 |15.2|5.9.2|15.0.0|macOS 14.2<br/>iOS 17.2<br/>watchOS 10.2<br/>tvOS 17.2|macOS 13.5+|2024-01-08|
