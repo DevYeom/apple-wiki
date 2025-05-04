@@ -16,6 +16,7 @@ If you find any issues or have suggestions for updates, please visit the reposit
 
 |Name|Identifier|OS|Max OS|ARM|Chip|RAM|Size(pt)|Size(px)|Scale|Diagonal|Release|
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|iPhone 16e|iPhone17,5|iOS 18.3.1|-|arm64e|Apple A18|8GB|390x844|1170×2532|3|6.06"|2025-02-28|
 |iPhone 16 Pro Max|iPhone17,2|iOS 18.0|-|arm64e|Apple A18 Pro|8GB|440x956|1320×2868|3|6.86"|2024-09-20|
 |iPhone 16 Pro|iPhone17,1|iOS 18.0|-|arm64e|Apple A18 Pro|8GB|402x874|1206×2622|3|6.27"|2024-09-20|
 |iPhone 16 Plus|iPhone17,4|iOS 18.0|-|arm64e|Apple A18|8GB|430x932|1290×2796|3|6.69"|2024-09-20|
