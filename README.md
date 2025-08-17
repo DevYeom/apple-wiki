@@ -158,6 +158,8 @@ If you find any issues or have suggestions for updates, please visit the reposit
 
 |Version|Swift|Clang|SDK|macOS|Release|
 |:---:|:---:|:---:|---|:---:|:---:|
+|16.4|6.1.2|17.0.0|macOS 15.5<br/>iOS 18.5<br/>watchOS 11.5<br/>tvOS 18.5|macOS 15.3+|2025-05-27|
+|16.3|6.1|17.0.0|macOS 15.4<br/>iOS 18.4<br/>watchOS 11.4<br/>tvOS 18.4|macOS 15.2+|2025-03-31|
 |16.2|6.0.3|16.0.0|macOS 15.2<br/>iOS 18.2<br/>watchOS 11.2<br/>tvOS 18.2|macOS 14.5+|2024-12-11|
 |16.1|6.0.2|16.0.0|macOS 15.1<br/>iOS 18.1<br/>watchOS 11.1<br/>tvOS 18.1|macOS 14.5+|2024-10-28|
 |16.0|6.0|16.0.0|macOS 15.0<br/>iOS 18.0<br/>watchOS 11.0<br/>tvOS 18.0|macOS 14.5+|2024-09-16|
